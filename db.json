@@ -4,7 +4,7 @@
 {"id": 2, "img":"https://khojaobigarm.vercel.app/assets/img/gallery/slide2.webp", "subtitle": "slide2", "title": "asas", "description": "description"},
 {"id": 3, "img":"https://khojaobigarm.vercel.app/assets/img/gallery/slide3.webp", "subtitle": "slide3", "title": "asas", "description": "description"}
 ],
- "slide": [
+ "slideOnpageAbout": [
 {"id": 1, "img":"https://khojaobigarm.vercel.app/assets/img/gallery/slide1.webp", "subtitle": "slide1", "title": "asas", "description": "description"},
 {"id": 2, "img":"https://khojaobigarm.vercel.app/assets/img/gallery/slide2.webp", "subtitle": "slide2", "title": "asas", "description": "description"},
 {"id": 3, "img":"https://khojaobigarm.vercel.app/assets/img/gallery/slide3.webp", "subtitle": "slide3", "title": "asas", "description": "description"}
